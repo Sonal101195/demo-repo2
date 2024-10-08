@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: spring-backend
-        image: 970653867674.dkr.ecr.ap-south-1.amazonaws.com/springbackend:latest  
+        image: 970653867674.dkr.ecr.ap-south-1.amazonaws.com/springbackend:latest 
         ports:
         - containerPort: 8080  
 ---
